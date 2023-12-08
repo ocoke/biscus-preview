@@ -32,5 +32,6 @@ export default defineAppConfig({
         }
       ]
     },
+    cacheMaxAge: 5 * 60,
   }
 })
