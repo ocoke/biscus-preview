@@ -10,7 +10,7 @@
     "prepare": "nuxi prepare"
   },
   "dependencies": {
-    "biscus": "^0.1.2",
+    "biscus": "^0.2.0",
     "nuxt": "^3.8.2"
   }
 }
